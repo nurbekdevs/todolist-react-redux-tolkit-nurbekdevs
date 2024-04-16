@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Morning",
+      "day": "Everyday at 08:00",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "text": "go to study",
+      "day": "Everyday 08:30",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "text": "Reading books",
+      "day": "Everyday at 15:00",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "text": "write to coding",
+      "day": "Everyday at 16:00",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "text": "sleeping",
+      "day": "Everyday at 23:00 or 00:00",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
